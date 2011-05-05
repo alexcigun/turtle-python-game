@@ -3,7 +3,6 @@
 
 = Introduction =
 
-Add your content here.
 
 This game is designed using turtle module in python 2.6.6 . It was designed as a part of mc121 (a course in python at iiser -k ) project in the session 2010-11.
 
@@ -13,8 +12,3 @@ If you like to modify the game or add a new game built in turtle module, please 
 
 please visit http://code.google.com/p/python-turtle-demo/ for turtle demo. This page has helped me a lot in making the game. 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
