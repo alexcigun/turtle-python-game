@@ -17,26 +17,34 @@ the score bar moves left.
 Your aim is to move the score bar to the extreme right. Then you WIN.
 If the score bar moves to the extreme left, you LOSE.
 
-CONTROLS
+= CONTROLS=
 Power
+
 Power is a the control slide bar. It sets the power with which the missile is bombarded. You
 can drag the power bar with the left mouse button and set the power in the range 0-100.
 In order to set the power, click the red scroll bar on the bottom of the screen.
+
 Angle
+
 Angle has set of 2 controls. It sets the bombardment angle for the missile. The angle can
 be set by left clicking the controls.
 In order to set the angle, click the command button of angle on the bottom of the screen.
 A lower angle sets towards 0 degree and the higher sets it towards 360 degree.
+
 Move
+
 The tank can be moved to a certain extent using the move command buttons.
 Using the left button for movement towards left and the right for right movement you can
 move your tank to the desired place.
+
 Fire
+
 Fire command button is used to spawn the missile with the set setting for power, angle and
 position
+
 OTHER
+
 The projectile of the missile is guided also by the drag of the air . So consider that before
 spawning your missile.
 
 You should run Tank War V1.0 in full screen mode by clicking the maximize button.
-
