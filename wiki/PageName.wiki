@@ -42,7 +42,7 @@ Fire
 Fire command button is used to spawn the missile with the set setting for power, angle and
 position
 
-OTHER
+=OTHER=
 
 The projectile of the missile is guided also by the drag of the air . So consider that before
 spawning your missile.
