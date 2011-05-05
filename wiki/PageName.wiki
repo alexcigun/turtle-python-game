@@ -1,5 +1,5 @@
 #labels python,game,Featured
-#Tank war - A game in turtle module of python
+=Tank war - A game in turtle module of python=
 
 = Introduction =
 
@@ -11,4 +11,3 @@ The turtle demo suite for Python 2.5/2.6 contains a backport of version 1.1 of t
 If you like to modify the game or add a new game built in turtle module, please ask me for including you as a com-miter of the project.
 
 please visit http://code.google.com/p/python-turtle-demo/ for turtle demo. This page has helped me a lot in making the game. 
-= Details =
