@@ -1,4 +1,4 @@
-#labels tankwar,python,kishan,iiserk,mc121
+#labels tankwar,python,kishan,iiserk,mc121,Featured
 =Tank war - A game in turtle module of python=
 
 = Introduction =
